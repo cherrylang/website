@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Cherry Programming Language
 
 You can use the [editor on GitHub](https://github.com/cherrylang/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
